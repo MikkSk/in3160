@@ -1,0 +1,5 @@
+v 4
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig2/test/../src/decoder_ent.vhd" "922ae8bda121df4ba4f4d331c57fdb769328dc52" "20260129125624.298":
+  entity decoder at 1( 0) + 0 on 11;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig2/test/../src/decoder_select.vhd" "8746a954e174a859aaf2c68b8b5f0df44d8098e9" "20260129125624.298":
+  architecture select_arch of decoder at 1( 0) + 0 on 12;
