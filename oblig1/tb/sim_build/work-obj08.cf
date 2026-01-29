@@ -1,0 +1,4 @@
+v 4
+file "/home/mikk/Desktop/elite/IN3160/obliger/oblig1/tb/" "../src/first.vhd" "89e699980b20e169380f63c9610ba4e608ffae26" "20260127160134.370":
+  entity first at 1( 0) + 0 on 11;
+  architecture rtl of first at 21( 702) + 0 on 12;

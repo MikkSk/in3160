@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1769529694" />
+    <testcase name="main_test" classname="tb_first" file="/home/mikk/Desktop/elite/IN3160/obliger/oblig1/tb/tb_first.py" lineno="8" time="0.0019609928131103516" sim_time_ns="680.0" ratio_time="346763.12705167173" />
+  </testsuite>
+</testsuites>
