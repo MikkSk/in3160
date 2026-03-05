@@ -1,0 +1,18 @@
+v 4
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig6/test/../src/bin2ssd_test.vhd" "a7f32641c7c61841cb75177fdd417adb28f6c031" "20260305142339.313":
+  entity bin2ssd_test at 1( 0) + 0 on 4;
+  architecture rtl of bin2ssd_test at 12( 211) + 0 on 4;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig6/test/../src/seg7_pkg.vhd" "0fed2b4ab555f9a29620a6c59c98ec37fa5fca82" "20260305142339.397":
+  package seg7_pkg at 1( 0) + 0 on 13 body;
+  package body seg7_pkg at 10( 172) + 0 on 14;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig6/test/../src/seg7ctrl.vhd" "89838241fd47a46ad7de89c22be8e0eabad86ece" "20260305142339.397":
+  entity seg7ctrl at 1( 0) + 0 on 15;
+  architecture rtl of seg7ctrl at 17( 370) + 0 on 16;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig6/test/../src/seg7ctrl_arch.vhd" "094bea115155c7f712d08e3dfa62faa31ac06487" "20260305142339.314":
+  architecture seg7ctrl_arch of seg7ctrl at 1( 0) + 0 on 4;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig6/test/../src/self_test.vhd" "30d6f00b093e15526a09243c0c821744d38504c7" "20260305142339.397":
+  entity self_test at 1( 0) + 0 on 11;
+  architecture rtl of self_test at 14( 254) + 0 on 12;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig6/test/../src/self_test_system.vhd" "a182b2029d743ad23bf18d3729de974d951d2815" "20260305142339.397":
+  entity self_test_system at 1( 0) + 0 on 17;
+  architecture rtl of self_test_system at 13( 234) + 0 on 18;

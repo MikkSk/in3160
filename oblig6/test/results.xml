@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1772720619" />
+    <testcase name="self_test_system_tb" classname="tb_self_test_system" file="/home/mikk/Desktop/elite/IN3160/obliger/oblig6/test/tb_self_test_system.py" lineno="5" time="0.0019404888153076172" sim_time_ns="230.0" ratio_time="118526.83622066594" />
+  </testsuite>
+</testsuites>
