@@ -1,0 +1,21 @@
+v 4
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig8/test/../src/input_sync.vhd" "6d4bb643bf25a10aa8a0f4217b216be930355c6c" "20260326155107.017":
+  entity input_sync at 1( 0) + 0 on 4;
+  architecture rtl of input_sync at 15( 222) + 0 on 4;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig8/test/../src/output_sync.vhd" "4619d4edb0a2decc0a7164ef79c0fd70613556be" "20260326155107.017":
+  entity output_sync at 1( 0) + 0 on 4;
+  architecture rtl of output_sync at 15( 259) + 0 on 4;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig8/test/../src/pulse_width_modulator.vhd" "2e6699d1f43e65dc93f8d1f53d4cb25bdfa0c96a" "20260326155107.017":
+  architecture rtl of pulse_width_modulator at 15( 354) + 0 on 4;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig8/test/../src/pwsim.vhd" "818a31a91de2b3d698442d5e08c9c8c9f66e80b1" "20260326155107.017":
+  entity pulse_width_modulator at 26( 1315) + 0 on 4;
+  architecture behavioral of pulse_width_modulator at 38( 1597) + 0 on 4;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig8/test/../src/quad_decoder.vhd" "a1ea5240bb290010f49347ee9389cab57924617d" "20260326155107.130":
+  entity quad_decoder at 1( 0) + 0 on 11;
+  architecture rtl of quad_decoder at 15( 260) + 0 on 12;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig8/test/../src/self_test.vhd" "9a5582e671ca9d4b63a8be989f1fdf9e0c5a0a0c" "20260326155107.018":
+  entity self_test at 1( 0) + 0 on 4;
+  architecture rtl of self_test at 14( 269) + 0 on 4;
+file / "/home/mikk/Desktop/elite/IN3160/obliger/oblig8/test/../src/velocity_reader.vhd" "90610f8da80227e3fd1f856438d04935f26c10d5" "20260326155107.019":
+  entity velocity_reader at 21( 1188) + 0 on 4;
+  architecture rtl of velocity_reader at 40( 1860) + 0 on 4;

@@ -94,8 +94,19 @@ begin
 		vel => vel_signed
 	);
 	--velocity to use for 7seg display
-	d0 <= std_logic_vector(unsigned(abs(vel_signed))(3 downto 0));
-	d1 <= std_logic_vector(unsigned(abs(vel_signed))(7 downto 0));
+;
+    filename: string := "ROM_data_bits.txt");
+  port(  
+    address: in std_logic_vector(addr_width-1 downto 0);
+    data:   out std_logic_vector(data_width-1 downto 0));
+end entity;
+
+architecture synth of ROM is 
+  -- ROM data structure. 
+  type memory_array is array(2**addr_width-1 downto 0) of std_logic_vector(data_width-1 downto 0);
+  
+	d0 <= std_logic_vector(unsigned(abs(vel_signed(3 downto 0)));
+	d1 <= std_logic_vector(unsigned(abs(vel_signed(7 downto 4)));
 	--7seg display
 	seg_7display_inst : entity work.seg7ctrl
 	port map(
